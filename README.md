@@ -1,5 +1,5 @@
 # Python-Projects
-## Hey Buddies, 
+## Hey Everyone, 
 Python related Projects are here.
 ### 1. Generate .csv file from .vcf file
       We mostly care about our contacts and their backups. 
